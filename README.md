@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Cristian Navarro 👋
+### Full Stack Developer | Computer Science Student @ UOC
 
-<!--
-**ItzFliper/ItzFliper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with a background in Multiplatform Application Development (DAM) and currently pursuing a B.S. in Computer Science. Experienced in high-concurrency environments in the TravelTech sector.
 
-Here are some ideas to get you started:
+- 💻 **Tech Stack:** Java, Spring Boot, React, TypeScript, PostgreSQL, Docker, AWS
+- 🔭 **Current Focus:** Microservices architecture, distributed systems, and cloud infrastructure
+- 📫 **Contact:** cristian05nm@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristian-navarro-millan-9092bb355/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** Java, TypeScript, JavaScript, Python, PHP, SQL
+- **Frameworks & Libraries:** Spring Boot, React, Angular, Laravel
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps & Cloud:** Docker, AWS, GitHub Actions, Linux
